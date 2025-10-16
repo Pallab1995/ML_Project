@@ -1,4 +1,4 @@
-from logger import*
+from src.logger import *
 import sys
 
 import logging
